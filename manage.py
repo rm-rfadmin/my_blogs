@@ -8,7 +8,7 @@ app.register_blueprint(auth_bp, url_prfix='/auth')
 
 app.route('/')
 def test():
-    return 'hello_world'
+    return 'hello_world222113'
 
 if __name__ == "__main__":
     app.run()
